@@ -1,0 +1,15 @@
+{
+  "name": "AI 실시간 번역",
+  "short_name": "AI 번역기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2014/2014916.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
